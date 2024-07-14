@@ -1,5 +1,36 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Título do Projeto:
+Explorando Tecnologias Emergentes: IA, Computação Quântica e Conectividade Global
 
+# 📒 Descrição:
+"Explorando Tecnologias Emergentes: IA, Computação Quântica e Conectividade Global" discute como avanços em IA, computação quântica e conectividade global estão transformando indústrias e melhorando a eficiência e a segurança."
+
+## 🤖 Tecnologias Utilizadas
+Para elaboração desse trabaljo foiram utilizados o Canva, D.ID, Chat GPT e Youtube para subir o vídeo.
+
+## 🧐 Processo de Criação
+Foram feitas pesquisas sobre as ultimas tendências em tecnologia pelo Chat GPT que após agrupamento de pesquisas criou o artigo. O artigo foi copiado para o Canva que criou o vídeo e feita a edição de apresentador e voz neural pelo D.ID. Em seguida com o vídeo pronto foi armazenado no Youtube Studio, para obtenção de link e armazenamento do vídeo.
+
+## 🚀 Resultados
+Para um primeiro de muuitos projetos, foi bastante satisfatório a pesquisa e criação. Embora dá para melhorar o processo a medida que criamos novos camihos e domínio das ferramentas. também por ser tratar de acesso a parte de ferramentas "gratis", o vídeo não ficou livre de logomarcas, mas numa outra ocasião é melhor comprar o acesso as ferramentas para edição e adequação ao projeto, o que resulta numa ótima finalização do trabalho.
+
+## 💭 Reflexão 
+Gostei bastante e já estou aqui cojitando em dar continuidade ao canal no youtbe e usar todo o potencial e auxilio da Inteligência Artificial!
+
+# Vamos ao vídeo:
+
+# Meu Projeto
+
+Bem-vindo ao meu projeto! Assista o vídeo abaixo para uma demonstração:
+
+[![Demo do Projeto](http://img.youtube.com/vi/gqcVNZla_Ww/maxresdefault.jpg)](http://www.youtube.com/watch?v=gqcVNZla_Ww)
+
+
+
+--------------------------------------------------------------------------------------------------
+
+
+# O QUE FOI PEDIDO NO DESAFIO!
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
